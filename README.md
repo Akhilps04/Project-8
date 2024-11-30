@@ -1,4 +1,10 @@
 # Project-8
 Random Forest Model for Employee Performance Prediction
 
-This project trains and evaluates a Random Forest Classifier to predict employee performance based on various features such as employee status, classification type, training outcomes, and more. It handles class imbalance using SMOTE, performs hyperparameter tuning, and evaluates the model using various metrics and visualizations.
+# Project Overview
+This project involves:
+Preparing and pre-processing a dataset.
+Addressing class imbalance using SMOTE.
+Training a Random Forest Classifier with hyperparameter tuning.
+Evaluating the model's performance using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
+Visualizing feature importance, confusion matrix, and multi-class ROC curves.
