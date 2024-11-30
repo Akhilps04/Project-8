@@ -36,4 +36,7 @@ The confusion matrix revealed that Class 2 was frequently misclassified as Class
 Real-time Predictions: Integrate the model with an HR management system.
 Explainability: Add tools like SHAP or LIME to explain model predictions.
 Generalization: Train the model on datasets from multiple organizations to improve robustness.
-
+# Acknowledgments
+The dataset was sourced from Kaggle.
+Thanks to my mentors and colleagues for their guidance.
+Libraries like scikit-learn and imblearn were instrumental in this project.
