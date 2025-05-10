@@ -40,3 +40,6 @@ Generalization: Train the model on datasets from multiple organizations to impro
 The dataset was sourced from Kaggle.
 Thanks to my mentors and colleagues for their guidance.
 Libraries like scikit-learn and imblearn were instrumental in this project.
+
+## 📄 License
+This project is for academic and demonstration purposes only. Please credit the authors if reused or modified.
